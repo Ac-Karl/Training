@@ -1,0 +1,9 @@
+//C
+#include<stdio.h>
+
+int main()
+{
+  printf("HELLO,WORLD");
+  printf("这是我的第一个GitHub上的代码");
+  return 0;
+ }
